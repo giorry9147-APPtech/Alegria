@@ -1,0 +1,90 @@
+export const sharedMenu = {
+  voordeelMenu: [
+    { day: "Maandag", item: "Brood Bakkeljauw of Shoarma + kopje koffie", price: "SRD 150" },
+    { day: "Dinsdag", item: "Brood Gebakken Ei of Kip + kopje koffie", price: "SRD 150" },
+    { day: "Woensdag", item: "Brood Kerrie Ei of Pom + kopje koffie", price: "SRD 150" },
+    { day: "Donderdag", item: "Brood Lever of Pom + kopje koffie", price: "SRD 150" },
+    { day: "Vrijdag", item: "Brood Shoarma of Gebakken Ei + kopje koffie", price: "SRD 150" },
+    { day: "Zaterdag", item: "Brood Pom of Kroket + kopje koffie", price: "SRD 150" },
+    { day: "Zondag", item: "Brood Kerrie Ei of Lever + kopje koffie", price: "SRD 150" },
+  ],
+
+  categories: [
+    {
+      title: "Burgers",
+      items: [
+        { name: "Alegria Burger", price: "SRD 75.00", description: "Beef of Chicken" },
+        { name: "Beef Burger", price: "SRD 55.00 / 60.00", description: "Mild of Spicy" },
+        { name: "Falafel Burger", price: "SRD 55.00", description: "Vegetarisch" },
+        { name: "Alegria Juicy Burger", price: "SRD 75.00", description: "Beef of Chicken" },
+        { name: "Chicken Burger", price: "SRD 55.00 / 60.00", description: "Mild of Spicy" },
+        { name: "Cheese Burger", price: "SRD 60.00" },
+        { name: "Alegria Crispy Chicken Burger", price: "SRD 75.00" },
+        { name: "Fish Burger", price: "SRD 55.00" },
+        { name: "Crispy Chicken Burger", price: "SRD 65.00" },
+      ],
+    },
+    {
+      title: "Snacks",
+      items: [
+        { name: "Cassave Cheeseballs (3)", price: "SRD 30.00" },
+        { name: "Falafel Nuggets (5)", price: "SRD 45.00" },
+        { name: "Dip & Dig Fries", price: "Vanaf SRD 35.00", description: "Fries met 2 sauzen" },
+        { name: "Kroketten (2)", price: "SRD 32.50" },
+        { name: "Bitterballen (3)", price: "SRD 30.00" },
+        { name: "Patat Shoarma", price: "SRD 55.00 / 70.00 / 80.00", description: "Small / Medium / Large" },
+        { name: "Chicken Nuggets", price: "Vanaf SRD 43.50" },
+        { name: "Chicken Strips", price: "SRD 40.00 / 75.00", description: "Strips only / combo" },
+        { name: "Hot Wings", price: "Vanaf SRD 57.00" },
+      ],
+    },
+    {
+      title: "Combo Deals",
+      items: [
+        { name: "3pc Chicken Combo", price: "Vanaf SRD 105.00" },
+        { name: "Kids Meal", price: "SRD 64.00", description: "Kip of nuggets" },
+        { name: "5pc Bucket", price: "SRD 115.00" },
+        { name: "Patat Shoarma", price: "SRD 55.00 / 70.00 / 80.00" },
+        { name: "Chicken Strips Combo (4pc)", price: "SRD 75.00" },
+        { name: "Hot Wings", price: "Vanaf SRD 57.00" },
+        { name: "Nuggets (4pc)", price: "SRD 43.50" },
+      ],
+    },
+    {
+      title: "Vegetarian / Vegan",
+      items: [
+        { name: "Cassave Cheeseballs (3)", price: "SRD 30.00", description: "Vegetarian" },
+        { name: "Bitterballen (3)", price: "SRD 30.00", description: "Vegetarian" },
+        { name: "Falafel Wrap", price: "SRD 45.00", description: "Vegetarian" },
+        { name: "Falafel Burger", price: "SRD 55.00", description: "Vegan" },
+        { name: "Kroketten (2)", price: "SRD 32.50", description: "Vegetarian" },
+        { name: "Falafel Nuggets (5)", price: "SRD 45.00", description: "Vegan" },
+        { name: "Dip & Dig Fries", price: "SRD 40.00", description: "Selection of fries + 2 sauces" },
+      ],
+    },
+    {
+      title: "Ice Cream",
+      items: [
+        { name: "Single Scoop", price: "SRD 40.00" },
+        { name: "Double Scoop", price: "SRD 58.00" },
+        { name: "Tripple Scoop", price: "SRD 75.00" },
+        { name: "Milkshakes", price: "Vanaf SRD 25.00" },
+        { name: "Sundaes", price: "Vanaf SRD 35.00" },
+        { name: "Sugar Cone", price: "SRD 22.50" },
+        { name: "Hard Ice", price: "Vanaf SRD 25.00" },
+      ],
+    },
+    {
+      title: "Extra",
+      items: [
+        { name: "Corn Dog (1pc)", price: "SRD 17.50" },
+        { name: "Bitterballen (3pc)", price: "SRD 30.00" },
+        { name: "Kroketten (2pc)", price: "SRD 32.50" },
+        { name: "Corn on the Cob", price: "SRD 30.00" },
+        { name: "Warme Maaltijden", price: "Vanaf SRD 40.00" },
+        { name: "Soepen", price: "Vanaf SRD 30.00" },
+        { name: "Alegria Salad", price: "N/A" },
+      ],
+    },
+  ],
+};
