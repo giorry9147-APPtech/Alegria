@@ -1,9 +1,9 @@
 export const heroSlides = [
   {
     id: 1,
-    title: "Surinaamse smaken sinds 1983",
+    title: "Surinaamse flavours sinds 1983",
     subtitle:
-      "Ontdek rijke Surinaamse gerechten, vertrouwde smaken en twee unieke locaties in Paramaribo.",
+      "Demo website, vertrouwde smaken en meerdere unieke locaties in Paramaribo.",
     image: "/images/hero/alegria-burger.jpeg",
     ctaPrimary: {
       label: "Bekijk Menu",
@@ -17,7 +17,7 @@ export const heroSlides = [
 
   {
     id: 2,
-    title: "Twee locaties, twee unieke menukaarten",
+    title: "Alegria, eten waar je gelukkig van wordt",
     subtitle:
       "Kies tussen Paramaribo Centrum en Zuid en ontdek wat elke locatie bijzonder maakt.",
     image: "/images/hero/alegria-patatoorlog.jpg",
@@ -33,7 +33,7 @@ export const heroSlides = [
 
   {
     id: 3,
-    title: "Bekende gerechten, sterke eerste indruk",
+    title: "Beste ice cream, sterke eerste indruk",
     subtitle:
       "Van klassiekers tot favorieten van vaste gasten: goed eten verdient een mooie presentatie.",
     image: "/images/hero/alegria-ice.jpg",
