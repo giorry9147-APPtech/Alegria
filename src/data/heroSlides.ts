@@ -4,7 +4,7 @@ export const heroSlides = [
     title: "Surinaamse smaken sinds 1983",
     subtitle:
       "Ontdek rijke Surinaamse gerechten, vertrouwde smaken en twee unieke locaties in Paramaribo.",
-    image: "/images/hero/alegria-burger.jpg",
+    image: "/images/hero/alegria-burger.jpeg",
     ctaPrimary: {
       label: "Bekijk Menu",
       href: "/menu",
